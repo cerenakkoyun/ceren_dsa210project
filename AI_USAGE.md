@@ -31,3 +31,10 @@ Claude was used to generate the exploratory data analysis code including visuali
 - Choice of data sources (TÜİK, MGM)
 - Interpretation of statistical results and domain-specific insights
 - Final review and validation of all code outputs
+
+### 4. Machine Learning Classification (`MachineLearning/ml_classification.ipynb`)
+Claude was used to generate the ML pipeline including preprocessing, model training, hyperparameter tuning, and evaluation code.
+
+**Prompt example:** "Create ML classification notebook — Logistic Regression, Random Forest, XGBoost with cross-validation, GridSearchCV tuning, ROC curves and feature importance"
+
+**Output:** A comprehensive notebook with preprocessing pipeline (StandardScaler + OneHotEncoder), 5-fold stratified cross-validation, GridSearchCV hyperparameter optimization, confusion matrices, ROC curve comparison, and feature importance analysis.
