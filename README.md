@@ -166,7 +166,9 @@ This confirms that structural climate characteristics and geographic location ma
 ├── EDA/                         → Exploratory Data Analysis (notebook + figures)
 ├── HypothesisTesting/           → Statistical tests (notebook + figures)
 ├── MachineLearning/             → ML models (notebook + figures)
+├── FinalReport.ipynb             → Final report
 ├── dataCleaning.ipynb           → Data collection & cleaning
+├── requirements.txt
 ├── AI_USAGE.md                  → AI tool disclosure
 ├── proposal.pdf                 → Project proposal
 └── README.md
